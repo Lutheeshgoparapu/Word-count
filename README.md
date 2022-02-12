@@ -33,7 +33,7 @@ per_word = read_data.split()
 print('Total Words:', len(per_word))
 ```
 ### OUTPUT:
-![OUTPUT](wordx.jpg)
+![OUTPUT](wordd.jpg)
 
 
 ## RESULT:
